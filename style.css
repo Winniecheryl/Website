@@ -14,9 +14,13 @@ body{background-color: rgb(245, 245, 245);}
 }
 
 nav{
-    color:brown
+    color:rgb(228, 155, 15);
 
 }
 
-
-
+span{
+    color: rgb(128, 0, 0);
+}
+button{
+    color: rgb(128, 128, 0);
+}
