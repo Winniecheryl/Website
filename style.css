@@ -1,10 +1,41 @@
 
     h1 {
-        color: rgb(241, 233, 239);
-        background-color: rgb(238, 248, 245);
+        color: rgb(228, 155, 15);
     }
      p {
-        color: rgb(3, 32, 23);
-        background-color: rgb(246, 247, 239);
+        
+        color: rgb(110, 38, 14);
     }
-body{background-color: beige;}
+body{background-color: rgb(245, 245, 245);}
+.hello{
+    position:absolute;
+    height:auto;
+    left:0px;
+    width:100px;
+}
+
+nav{
+    color:rgb(228, 155, 15);
+
+}
+
+span{
+    color: rgb(128, 0, 0);
+}
+button{
+    color: rgb(128, 128, 0);
+}
+svg{
+    color: rgb(128, 128, 0);
+}
+path{
+    color: rgb(128, 128, 0);
+}
+circle{
+    color: rgb(128, 128, 0);
+}
+h4{
+  color: rgb(110, 38, 14);
+  text-align: center;
+}
+
