@@ -68,5 +68,12 @@ h4{
     flex-wrap: wrap;
     justify-content: space-between;
   }
+  div {
+    background: #FFFFFF;
+    flex-basis: 100%;
+    height: px;
+    margin-bottom: 0.5rem;
+  }
 
+  
   
