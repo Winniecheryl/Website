@@ -62,9 +62,4 @@ h4{
       width: 50%;
     }
   }
-  main {
-    background: #FFFFFF;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
+  
